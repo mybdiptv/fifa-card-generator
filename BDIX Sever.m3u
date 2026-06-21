@@ -40,6 +40,8 @@ http://redforce.live:8082/AND.FLIX.HD/tracks-v1a1/mono.m3u8?token=87896547afde7d
 
 #EXTINF:-1 group-title="Bangla",BTV
 http://10.30.30.30:8088/BTV.HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",Chanel 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Bangla",ATN BANGLA
 http://10.30.30.30:8088/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=140fcf8af59c1ef2bc16198a6857b8f2370cae34-7d12f6e406aeea41c57fbbc6f91ae40c-1782058689-1782047889
 #EXTINF:-1 group-title="Bangla",ATN NEWS
