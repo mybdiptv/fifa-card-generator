@@ -1,1 +1,1 @@
-# fifa-card-generator
+# card-generator
