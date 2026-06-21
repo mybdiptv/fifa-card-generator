@@ -87,9 +87,18 @@ http://10.30.30.30:8088/NTV.HD/tracks-v1a1/mono.m3u8?token=0a8e89781aef85e5f86ff
 http://redforce.live:8082/ASIAN.TV.HD/tracks-v1a1/mono.m3u8?token=4fea838a3026ca24444e59dfc4997cea0902feac-8368495b23a4a8fbc14ec11064554ad1-1782061132-1782050332
 #EXTINF:-1 group-title="Bangla", Global TV
 http://redforce.live:8082/Global.TV.HD/tracks-v1a1/mono.m3u8?token=7bc03da9020aeda1bc598e4b71585472010ebd64-157958ffc918f4e310a698142979493c-1782061177-1782050377
-
-
-
+#EXTINF:-1 group-title="Bangla", Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
+#EXTINF:-1 group-title="Bangla", Mohona TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla", MY TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla", Ananda TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla", Sr TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla", R TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 
 
 
