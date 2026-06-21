@@ -169,5 +169,49 @@ http://10.30.30.30:8088/FIGHTERS.HD/tracks-v1a1/mono.m3u8?token=f5a1d0da8edf0f8e
 http://10.30.30.30:8088/SONY.SPORTS.1HD/tracks-v1a1/mono.m3u8?token=a47be03265009d7e6a522052e3e307c3d10534b9-66a63acf8295cce6c07980fc3265cbe6-1782060261-1782049461
 #EXTINF:-1 group-title="Sports",Sony 2
 http://10.30.30.30:8088/SONY.SPORTS2.HD/tracks-v1a1/mono.m3u8?token=8595b84fe45ac4ac99fe8dd5b35d52cd0a1c058e-8f0e0f81df752d62fb54d196ea095246-1782060283-1782049483
-
+#EXTINF:-1 group-title="Sports",Sony 3
 http://10.30.30.30:8088/SONY.SPORTS.3/tracks-v1a1/mono.m3u8?token=27aac5fb0c38802ec0fd581e05ba0c4f12b8a7a0-b7f00986370dbc3da0900e3355bbbaff-1782060300-1782049500
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD
+http://10.30.30.30:8088/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8?token=4cef1674713a1b4b7f74bcff5ea1bd39b3c6e54f-2983831fc8cfbe39aadef01dbe7451ba-1782060418-1782049618
+#EXTINF:-1 group-title="Sports",Star Sports 2 HD
+http://10.30.30.30:8088/STAR.SPORTS2.HD_KSB/tracks-v1a1/mono.m3u8?token=4654ad4ddf5e1d3566d9f7ed456926ccd5e8c907-bc83cd5ef9b513b3a90fc8e8ec8d310f-1782060457-1782049657
+#EXTINF:-1 group-title="Sports",Star Sports 3 HD
+http://10.30.30.30:8088/STAR-SPORTS.3/tracks-v1a1/mono.m3u8?token=6cd4e75a4cf6210ecabd14975c70dd755d057b5e-289a57599960ab15790ad19388a6c8f6-1782060475-1782049675
+#EXTINF:-1 group-title="Sports",Star Sports Select 1
+http://10.30.30.30:8088/STAR.SPORTS-SEL1.HD/tracks-v1a1/mono.m3u8?token=20445362eafd0d8044564884701ddbd202afeea0-6fbdba6d6505be41b7bf0295737052e8-1782060496-1782049696
+#EXTINF:-1 group-title="Sports",Star Sports Select 2
+http://10.30.30.30:8088/STAR.SPORTS.SEL.2.HD/tracks-v1a1/mono.m3u8?token=fa939f918ef5215c426a605ec7e8b3a3728c2922-fb50e4312b11508536aed70be82fa622-1782060520-1782049720
+
+
+#EXTINF:-1 group-title="Hindi",Colors HD
+http://10.30.30.30:8088/COLORS.HD/tracks-v1a1/mono.m3u8?token=2f7c834e36e1743eb9edb57aa7eba1741db8e0d4-121984bfb062704bd0421558ce9ff662-1782060607-1782049807
+#EXTINF:-1 group-title="Hindi",Star Bharat HD
+http://10.30.30.30:8088/STAR.BHARAT.HD/tracks-v1a1/mono.m3u8?token=ce62f5cb9b51db151d9521ba8959af944139aad4-41e6df03ff09a4a4603134add4f7b952-1782060672-1782049872
+#EXTINF:-1 group-title="Hindi",Star Plus HD
+http://10.30.30.30:8088/STAR.PLUS.HD/tracks-v1a1/mono.m3u8?token=94ce010f19157a5da7d2a4b225453d955b6a13e6-318c86ae0c48b83459920263aa70d3de-1782060757-1782049957
+#EXTINF:-1 group-title="Hindi",Zee TV HD
+http://10.30.30.30:8088/ZEE.TV.HD/tracks-v1a1/mono.m3u8?token=fa1d55b49d3c32073e900e86ddf03479442b3b07-7316618fa193de7d3bd54ef92c3f56e4-1782060833-1782050033
+
+
+
+
+#EXTINF:-1 group-title="Hindi Moives",& Picture
+http://10.30.30.30:8088/ANT.PICTURS.HD/tracks-v1a1/mono.m3u8?token=de852a922621fc6cca07c213a84f0615a51c3e2d-3ada2cfb80d86c8bf450e0c35561c57b-1782060538-1782049738
+#EXTINF:-1 group-title="Hindi Moives",Colors Cinplex HD
+http://10.30.30.30:8088/COLORS.CINEPLEX.HD/tracks-v1a1/mono.m3u8?token=0b1710e932fe78493a28361303dfed827b3c29a3-4e1de88c951dc7c4171d8629c3f66e99-1782060579-1782049779
+#EXTINF:-1 group-title="Hindi Moives",Sony Max HD
+http://10.30.30.30:8088/SONY.MAX.HD/tracks-v1a1/mono.m3u8?token=bf8cffb844bb562aad4bfa0b1290ac83d8569247-c81e8aec56cd940fa8d1c3716e847f77-1782060653-1782049853
+#EXTINF:-1 group-title="Hindi Moives",Star GOld HD
+http://10.30.30.30:8088/STAR.GOLD.HD/tracks-v1a1/mono.m3u8?token=0b7241d291c253876cbe75c3d213d5edf903426a-5f953c5c007e4d79aee13afa27351cc3-1782060693-1782049893
+#EXTINF:-1 group-title="Hindi Moives",Zee Cinema HD
+http://10.30.30.30:8088/ZEE.CINEMA.HD/tracks-v1a1/mono.m3u8?token=0199bf499b92c72381803fdca8ebf498389d9639-03a59733e295c23c67ecdf84e7b5055e-1782060715-1782049915
+#EXTINF:-1 group-title="Hindi Moives",Star GOld Select HD
+http://10.30.30.30:8088/STAR.GOLD.SEL.HD/tracks-v1a1/mono.m3u8?token=bc1983bea8aaf646d5287b1b5d2833794b9f2cec-757dedef867611ba4ead83f6b72bf4d8-1782060735-1782049935
+#EXTINF:-1 group-title="Hindi Moives",Zee Action
+http://10.30.30.30:8088/ZING.MUSIC/tracks-v1a1/mono.m3u8?token=f0c0285f3ce4148b653b9528ecdf5f58050bb25f-736e4ebdc40acf2fd5f603b374fc6db0-1782060856-1782050056
+
+
+#EXTINF:-1 group-title="Music",ZOOM
+http://10.30.30.30:8088/ZOOM.MUSIC/tracks-v1a1/mono.m3u8?token=0e915e53796df4b6d034a61bcb319bf9e1dbfb42-80d57dfd456d9229c6d62e237cd454ae-1782060882-1782050082
+
+
