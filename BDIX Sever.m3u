@@ -51,7 +51,7 @@ http://10.30.30.30:8088/ATN.NEWS.HD/tracks-v1a1/mono.m3u8?token=4cc40532fabdd921
 #EXTINF:-1 group-title="Bangla",Bangla TV
 http://10.30.30.30:8088/BANGLA.TV.HD/tracks-v1a1/mono.m3u8?token=76d36dc74bf620e242ebe78b5ee76ac4798c7f98-0c9f1d9f2cc7c25bea17e729a4b980f1-1782058733-1782047933
 #EXTINF:-1 group-title="Bangla",BanglaVission
-http://10.30.30.30:8088/BANGLA.VISION.HD/tracks-v1a1/mono.m3u8?token=8094328af88496c8028aaf410d0a1f1281c24399-87e2b3ca563b1df577e66663a96ad49d-1782058775-1782047975
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangla",Boisakhi
 http://10.30.30.30:8088/BOISAKHI.TV.HD/tracks-a1/mono.m3u8?token=4d2933295b161978856f1e7f86cbad430517a837-47bc3a79f8da1ded2cb7cb05d62d6b48-1782058838-1782048038
 #EXTINF:-1 group-title="Bangla",chanel 9
@@ -61,7 +61,7 @@ http://10.30.30.30:8088/DBC.NEWS/tracks-v1a1/mono.m3u8?token=02353ef326a45981045
 #EXTINF:-1 group-title="Bangla",Depto TV
 http://10.30.30.30:8088/DEEPTO.TV/tracks-v1a1/mono.m3u8?token=b83284fbb7380451bf9edc177dfdf2053c969cc3-ea8d92471e604dfad1c07f3a4ed1a2c0-1782058970-1782048170
 #EXTINF:-1 group-title="Bangla",Somoy TV
-http://10.30.30.30:8088/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=d30075cb839ff6c38e1cf13863b00827f4ee89ad-eb1380f104a1c7d879c34cd19edc1607-1782059093-1782048293
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushe TV
 http://10.30.30.30:8088/ETV.BANGLA.HD/tracks-v1/mono.m3u8?token=325d01f190c7124003cfde9f58be552f9c0ffa08-e2bfa6827eb454c4f00eb86c402148d6-1782059057-1782048257
 #EXTINF:-1 group-title="Bangla", 71 TV
@@ -71,7 +71,7 @@ http://10.30.30.30:8088/EAKHON.TV.HD/tracks-v1a1/mono.m3u8?token=01d2a03a1f06200
 #EXTINF:-1 group-title="Bangla",chanel I
 http://10.30.30.30:8088/CHANNEL.I.HD/tracks-v1a1/mono.m3u8?token=2732eae82737b0d9681ed4d8e3d57cdefb8125d1-df5bc1f8a4a305d96afb97fd30fcd5bd-1782058923-1782048123
 #EXTINF:-1 group-title="Bangla",chanel 24
-http://murgi.live:8083/channel24/index.m3u8?token=5f3a14ce7eaa34f9b4506ee36232ddd1e5c44786-620e6bfe7ad97526c43ff79cbbdd37e8-1782060342-1782049542
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
 http://10.30.30.30:8088/CHANNEL.24.HD/tracks-a1/mono.m3u8?token=610537422dc2b487a2cdb1945fdb57e5eb91cfcd-3ee023ba5c67fe6828b2efe8865b90de-1782058873-1782048073
 #EXTINF:-1 group-title="Bangla",Bijoy TV
 http://10.30.30.30:8088/BIJOY.TV.HD/tracks-v1a1/mono.m3u8?token=4fdaacaf433882e78db42012e81e20a61225e971-dc93c70e83dd8ece0e7d3e2b45e2c85a-1782058808-1782048008
@@ -79,6 +79,7 @@ http://10.30.30.30:8088/BIJOY.TV.HD/tracks-v1a1/mono.m3u8?token=4fdaacaf433882e7
 http://10.30.30.30:8088/GAZI.TV.HD/tracks-v1a1/mono.m3u8?token=c621fcc6b0f8bf4081ac9c3cd573c42b9c187da6-1eb900fbf60ef9672ea8772318f081d1-1782059923-1782049123
 #EXTINF:-1 group-title="Bangla",Independent
 http://192.168.91.8/streams/118/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangla",Jamuna
 http://10.30.30.30:8088/JAMUNA.TV/tracks-v1a1/mono.m3u8?token=ec484be88cc0a2d2f412c8c35cb1a48a31194e21-8156697c4d5ab95d353585e087811b6e-1782059969-1782049169
 #EXTINF:-1 group-title="Bangla",Masranga
@@ -86,9 +87,9 @@ http://10.30.30.30:8088/MASRANGA.TV.HD/tracks-v1a1/mono.m3u8?token=d2417caf036c6
 #EXTINF:-1 group-title="Bangla", Nagorik TV
 http://10.30.30.30:8088/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=8616323612a0eb96aa6e168d4521c6e8478df95d-83a3ee7bbf94a5c78f11564705fb20d2-1782060005-1782049205
 #EXTINF:-1 group-title="Bangla", News 24 HD
-http://10.30.30.30:8088/NEWS.24/tracks-v1a1/mono.m3u8?token=07efd5dcb66cd0b65a0cbf313bc9e8034e0a1316-6957c080e0f5157062831516f38f272f-1782060023-1782049223
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=2407200.m3u8
 #EXTINF:-1 group-title="Bangla", N TV
-http://10.30.30.30:8088/NTV.HD/tracks-v1a1/mono.m3u8?token=0a8e89781aef85e5f86ffc84f8fd5e6a57cacf37-6835e52ee9c25f46e196645a145f9cb9-1782060045-1782049245
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Bangla", Asian TV
 http://redforce.live:8082/ASIAN.TV.HD/tracks-v1a1/mono.m3u8?token=4fea838a3026ca24444e59dfc4997cea0902feac-8368495b23a4a8fbc14ec11064554ad1-1782061132-1782050332
 #EXTINF:-1 group-title="Bangla", Global TV
@@ -98,15 +99,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-vid
 #EXTINF:-1 group-title="Bangla", Mohona TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla", MY TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla", Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla", Sr TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla", R TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 group-title="Bangla", Rajdhani TV
+https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
 http://10.30.30.30:8088/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8
@@ -206,7 +207,7 @@ https://cdn-2.pishow.tv/live/1461/1461_0.m3u8
 #EXTINF:-1 group-title="Music",ZOOM
 http://10.30.30.30:8088/ZOOM.MUSIC/tracks-v1a1/mono.m3u8?token=0e915e53796df4b6d034a61bcb319bf9e1dbfb42-80d57dfd456d9229c6d62e237cd454ae-1782060882-1782050082
 #EXTINF:-1 group-title="Music",ZOOM
-http://redforce.live:8082/Sangeet.Bangla/tracks-v1a1/mono.m3u8?token=18914a386768c5a38eecd560782003c06f2c2381-259a1632a07be90caca0515d243227e5-1782061202-1782050402
+https://cdn-4.pishow.tv/live/1143/1143_0.m3u8
 #EXTINF:-1 group-title="Music",9XM
 http://redforce.live:8082/9XM.MUSIC/tracks-a1/mono.m3u8?token=d06da0f89b81c7a89f7b7e216731844e86647fbe-56469925ee715b78a9d0b49b52734fb7-1782061235-1782050435
 #EXTINF:-1 group-title="Music",ZING
