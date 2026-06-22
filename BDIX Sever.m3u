@@ -26,6 +26,23 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",PTV
 http://44.44.44.6/stream/hls/stream.m3u8
 
+
+
+
+#EXTINF:-1 group-title="Fifa World Cup",FIFA
+http://103.89.248.50:8082/FIFA-World-Cup-Live/tracks-a1/index.fmp4.m3u8?token=b2e921b7e63e9be3bba3c8942069a35f404ccce7-d5377ce046810985a2aa88c7000d3658-1782157356-1782146556
+
+#EXTINF:-1 group-title="Fifa World Cup",FIFA
+http://103.89.248.10:8082/FIFA-World-Cup-Live-7/tracks-a1/index.fmp4.m3u8?token=05bc195e419b3670f3e832945b1f1ea1b679bfae-8abfda073bf018b28efdd0ec04443cd5-1782157982-1782147182
+
+#EXTINF:-1 group-title="Fifa World Cup",FIFA
+http://103.89.248.14:8082/FIFA-World-Cup-Live-6/tracks-a1/index.fmp4.m3u8?token=4780699d9f106fb6ce0e04438a3a6c2f476dc94c-dbc63d4a8897e1579a373b24f0fa5c94-1782157211-1782146411
+
+
+
+
+
+
 #EXTINF:-1 group-title="Fifa World Cup",T Sports
 http://44.44.44.6/stream/hls/stream1.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",Bein 2
