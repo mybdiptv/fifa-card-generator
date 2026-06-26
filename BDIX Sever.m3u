@@ -16,7 +16,8 @@ http://10.30.30.30:8088/BTV.HD/tracks-v1a1/mono.m3u8
 http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",United8 1 HD
 http://cdn.moviemazic.xyz:8083/unite8-sports-2/index.m3u8
-
+#EXTINF:-1 group-title="Fifa World Cup",T Sports Ayna
+https://trs1.aynaott.com/tsports/index.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",CCTV SPORTS
 https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",Fox HD
@@ -167,6 +168,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 group-title="Bangla",Masranga
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
+#EXTINF:-1 group-title="Bangla",Masranga
+https://trs1.aynaott.com/maasrangatv/index.m3u8
 #EXTINF:-1 group-title="Bangla", Nagorik TV
 http://10.30.30.30:8088/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=8616323612a0eb96aa6e168d4521c6e8478df95d-83a3ee7bbf94a5c78f11564705fb20d2-1782060005-1782049205
 #EXTINF:-1 group-title="Bangla", News 24 HD
@@ -197,6 +200,9 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
 https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla",ABP ANANDA
+http://103.175.73.12:8080/live/200/200_0.m3u8
 #EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/198.ts
 #EXTINF:-1 group-title="Indian Bangla",Zee Bangla HD
@@ -220,7 +226,8 @@ http://10.30.30.30:8088/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=584bd00
 
 
 
-
+#EXTINF:-1 group-title="Sports", A Sports
+http://103.175.73.12:8080/live/280/280_0.m3u8
 #EXTINF:-1 group-title="Sports", A Sports
 http://10.30.30.30:8088/A.SPORTS.HD_KSB/tracks-v1a1/mono.m3u8?token=73a6193c521c511f3a2ddb4e550d9cd9715e7fa7-cc0da8dc28bfa27d59758615e15723a8-1782060156-1782049356
 #EXTINF:-1 group-title="Sports",Euro Sports
@@ -248,8 +255,22 @@ http://10.30.30.30:8088/STAR.SPORTS.SEL.2.HD/tracks-v1a1/mono.m3u8?token=fa939f9
 #EXTINF:-1 group-title="Sports",Ten Cricket
 http://redforce.live:8082/SSC.SPORTS.1.HD/tracks-v1a1/mono.m3u8?token=4993b50fddcc7db66a8955aaf6445cde8dcb452a-7f98c9fde0e897ba1d3fe1dcc8bcad20-1782061396-1782050596
 
+#EXTINF:-1 group-title="Hindi",Colors HD
+http://103.175.73.12:8080/live/318/318_0.m3u
+#EXTINF:-1 group-title="Hindi",Colors HD
+http://103.175.73.12:8080/live/245/245_0.m3u8
+http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 group-title="Hindi",Colors HD
+http://103.175.73.12:8080/live/257/257_0.m3u8
+#EXTINF:-1 group-title="Hindi",Colors HD
+http://103.175.73.12:8080/live/258/258_0.m3u8
 
-
+#EXTINF:-1 group-title="Hindi",Colors HD
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 group-title="Hindi",Colors HD
+http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 group-title="Hindi",Colors HD
+http://103.175.73.12:8080/live/274/274_0.m3u8
 
 #EXTINF:-1 group-title="Hindi",Colors HD
 http://10.30.30.30:8088/COLORS.HD/tracks-v1a1/mono.m3u8?token=2f7c834e36e1743eb9edb57aa7eba1741db8e0d4-121984bfb062704bd0421558ce9ff662-1782060607-1782049807
@@ -259,6 +280,7 @@ http://10.30.30.30:8088/STAR.BHARAT.HD/tracks-v1a1/mono.m3u8?token=ce62f5cb9b51d
 http://10.30.30.30:8088/STAR.PLUS.HD/tracks-v1a1/mono.m3u8?token=94ce010f19157a5da7d2a4b225453d955b6a13e6-318c86ae0c48b83459920263aa70d3de-1782060757-1782049957
 #EXTINF:-1 group-title="Hindi",Zee TV HD
 http://10.30.30.30:8088/ZEE.TV.HD/tracks-v1a1/mono.m3u8?token=fa1d55b49d3c32073e900e86ddf03479442b3b07-7316618fa193de7d3bd54ef92c3f56e4-1782060833-1782050033
+
 
 
 
@@ -294,18 +316,20 @@ https://cdn-2.pishow.tv/live/1461/1461_0.m3u8
 
 
 
-#EXTINF:-1 group-title="Music",ZOOM
-http://10.30.30.30:8088/ZOOM.MUSIC/tracks-v1a1/mono.m3u8?token=0e915e53796df4b6d034a61bcb319bf9e1dbfb42-80d57dfd456d9229c6d62e237cd454ae-1782060882-1782050082
+#EXTINF:-1 group-title="Music",B$U
+http://103.175.73.12:8080/live/157/157_0.m3u8
 #EXTINF:-1 group-title="Music",ZOOM
 https://cdn-4.pishow.tv/live/1143/1143_0.m3u8
-#EXTINF:-1 group-title="Music",9XM
-http://redforce.live:8082/9XM.MUSIC/tracks-a1/mono.m3u8?token=d06da0f89b81c7a89f7b7e216731844e86647fbe-56469925ee715b78a9d0b49b52734fb7-1782061235-1782050435
-#EXTINF:-1 group-title="Music",ZING
-http://redforce.live:8082/ZING.MUSIC/tracks-v1a1/mono.m3u8?token=691cf699b0ccfe569fc44b55f8cc1591a884fb97-8480bdd6d300ea86b459cb561d33ef2d-1782061352-1782050552
+#EXTINF:-1 group-title="Music",E24
+http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:-1 group-title="Music",9X Jalwa
+http://103.175.73.12:8080/live/161/161_0.m3u8
 #EXTINF:-1 group-title="Music",Music Inda
-http://redforce.live:8082/Music.India/tracks-a1/mono.m3u8?token=86698f05e35bb173ce52b582cf7061bdbbca5320-e81d331ee6ea4b1c59764b9dbc8e0034-1782061459-1782050659
-#EXTINF:-1 group-title="Music",Mtv
-http://redforce.live:8082/MTV.INDIA/tracks-v1a1/mono.m3u8?token=b79b206056ffdf47eff72f67cb710eba8ac55c5a-0a8c6653b3523896b24bae933a3718ce-1782061435-1782050635
+http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 group-title="Music",9X Tahsan
+http://103.175.73.12:8080/live/178/178_0.m3u8
+#EXTINF:-1 group-title="Music",PTC Music
+http://103.175.73.12:8080/live/181/181_0.m3u8
 
 
 #EXTINF:-1 group-title="Cartoon",NICK
