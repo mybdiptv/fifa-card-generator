@@ -231,7 +231,8 @@ http://10.30.30.30:8088/ZEE.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=837b389f83
 http://10.30.30.30:8088/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=584bd0034dafd7d1c9fae3766b6972041b9466e8-185028a8b51008e4b26b75ad10bd46ec-1782059788-1782048988
 #EXTINF:-1 group-title="Indian Bangla",Khusbu bangla
 http://103.175.73.12:8080/live/375/375_0.m3u8
-
+#EXTINF:-1 group-title="Indian Bangla", Bangla+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 group-title="Sports", A Sports
 http://103.175.73.12:8080/live/280/280_0.m3u8
