@@ -80,7 +80,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-vid
 #EXTINF:-1 group-title="Bangla",Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushe TV
-http://10.30.30.30:8088/ETV.BANGLA.HD/tracks-v1/mono.m3u8?token=325d01f190c7124003cfde9f58be552f9c0ffa08-e2bfa6827eb454c4f00eb86c402148d6-1782059057-1782048257
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla", 71 TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Bangla", Desh Bidesh
@@ -101,15 +101,14 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-vid
 
 #EXTINF:-1 group-title="Bangla",Jamunahttps://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Bangla",Masranga
-http://10.30.30.30:8088/MASRANGA.TV.HD/tracks-v1a1/mono.m3u8?token=d2417caf036c6cf1f15d2791ac2982899349651f-59a8a08a598cb56eaf80f47c96d9aac9-1782059988-1782049188
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Bangla", Nagorik TV
 http://10.30.30.30:8088/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=8616323612a0eb96aa6e168d4521c6e8478df95d-83a3ee7bbf94a5c78f11564705fb20d2-1782060005-1782049205
 #EXTINF:-1 group-title="Bangla", News 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=2407200.m3u8
 #EXTINF:-1 group-title="Bangla", N TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
-#EXTINF:-1 group-title="Bangla", N TV
-https://sm-monirul.top/toffee/play/n_tv.m3u8
+
 #EXTINF:-1 group-title="Bangla", Asian TV
 https://sm-monirul.top/toffee/play/asian_tv.m3u8
 #EXTINF:-1 group-title="Bangla", Global TV
@@ -127,7 +126,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla", R TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla", Rajdhani TV
-https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
 https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
