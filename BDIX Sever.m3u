@@ -239,16 +239,6 @@ https://trs1.aynaott.com/colorsbangla/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla",Zee Bangla HD
 https://trs1.aynaott.com/zeebangla/index.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD Appolo
-http://10.30.30.30:8088/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian Bangla",Sun Bangla HD Appolo
-http://10.30.30.30:8088/SUN.BANGLA.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian Bangla",Zee Bangla HD Appolo
-http://10.30.30.30:8088/ZEE.BANGLA.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian Bangla",Jalsha MoivesHD Appolo
-http://10.30.30.30:8088/JALSHA.MOVIES.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian Bangla",Colors Bangla HD Appolo
-http://10.30.30.30:8088/COLORS.BANGLA.HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla", Colors Bangla
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
@@ -304,16 +294,7 @@ http://103.175.73.12:8080/live/362/362_0.m3u8
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/1080p/index.m3u8
 
 
-#EXTINF:-1 group-title="Hindi Moives",& Xplore
-http://10.30.30.30:8088/XPLOR.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi Moives",Colors Cinplex
-http://10.30.30.30:8088/COLORS.CINEPLEX.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi Moives",MNX
-http://redforce.live:8082/MNX.HD/tracks-v1a1/mono.m3u8?token=65f45d05578492424981d37895371922fe7492db-a7775c7ec4bcfed28ebe165701c6d1a2-1782061965-1782051165
-#EXTINF:-1 group-title="Hindi Moives",AXN
-http://redforce.live:8082/AXN.HD/tracks-v1a1/mono.m3u8?token=bfd1c227fc04d9e35a0b4cd2ba5c3b62dde8383a-1d0f55aa0efb6e1e6b110eba06537e42-1782062003-1782051203
-#EXTINF:-1 group-title="Hindi Moives",Goldmine
-https://cdn-2.pishow.tv/live/1461/1461_0.m3u8
+
 
 
 
