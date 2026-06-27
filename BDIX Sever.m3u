@@ -9,11 +9,11 @@
 
 #EXTINF:-1 group-title="Fifa World Cup", Somoy TV
 http://10.101.101.101:8080/live/channel1/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",sOMOY tv
+#EXTINF:-1 group-title="Fifa World Cup",T Sports
 http://10.101.101.101:8080/live/channel3/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",sOMOY tv
+#EXTINF:-1 group-title="Fifa World Cup",Gazi TV
 http://10.101.101.101:8080/live/channel2/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",sOMOY tv
+#EXTINF:-1 group-title="Fifa World Cup",PTV
 http://10.101.101.101:8080/live/channel4/index.m3u8
 
 # Website: https://fastiptvbackup.edgeone.app
@@ -21,7 +21,7 @@ http://10.101.101.101:8080/live/channel4/index.m3u8
 http://192.168.91.8/streams/118/index.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",United8 1HD
 http://192.168.91.8/streams/119/index.m3u8
-#EXTINF:-1 group-title="Bangla",BTV
+#EXTINF:-1 group-title="Fifa World Cup",BTV
 http://10.30.30.30:8088/BTV.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",T Sports
 http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/tracks-v1a1/mono.m3u8
