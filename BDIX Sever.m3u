@@ -42,6 +42,13 @@ https://tahmidx.cinemoja2.workers.dev/live/FIFA-2026-4/0/master_2000.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",United8 1 HD
 http://cdn.moviemazic.xyz:8083/unite8-sports-2/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",4k
+http://fastshare1.com:8080//live/25711345/late8airline/688287.ts
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",4k
+http://fastshare1.com:8080//live/25711345/late8airline/745270.ts
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",4k
+http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
+
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports Ayna
 https://trs1.aynaott.com/tsports/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",CCTV SPORTS
@@ -540,6 +547,32 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="BD IPTV"  tvg-logo="https://png.pngtree.com/png-vector/20240103/ourmid/pngtree-cartoon-style-tv-icon-tube-png-image_11085206.png",SANANDA TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BD IPTV"  tvg-logo="https://png.pngtree.com/png-vector/20240103/ourmid/pngtree-cartoon-style-tv-icon-tube-png-image_11085206.png",SNB TV
+http://103.182.83.246/hls/snbcinema.m3u8
+#EXTINF:-1 group-title="BD IPTV"  tvg-logo="https://png.pngtree.com/png-vector/20240103/ourmid/pngtree-cartoon-style-tv-icon-tube-png-image_11085206.png",Chanel 16
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BD IPTV"  tvg-logo="https://png.pngtree.com/png-vector/20240103/ourmid/pngtree-cartoon-style-tv-icon-tube-png-image_11085206.png",alpona TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BD IPTV"  tvg-logo="https://png.pngtree.com/png-vector/20240103/ourmid/pngtree-cartoon-style-tv-icon-tube-png-image_11085206.png",enter tv
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BD IPTV"  tvg-logo="https://png.pngtree.com/png-vector/20240103/ourmid/pngtree-cartoon-style-tv-icon-tube-png-image_11085206.png",JA TV
+https://iptv.porosh.com.bd/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
+#EXTINF:-1 group-title="BD IPTV"  tvg-logo="https://png.pngtree.com/png-vector/20240103/ourmid/pngtree-cartoon-style-tv-icon-tube-png-image_11085206.png",Ayna TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BD IPTV"  tvg-logo="https://png.pngtree.com/png-vector/20240103/ourmid/pngtree-cartoon-style-tv-icon-tube-png-image_11085206.png",Ummochon TV
+https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BD IPTV"  tvg-logo="https://png.pngtree.com/png-vector/20240103/ourmid/pngtree-cartoon-style-tv-icon-tube-png-image_11085206.png",Galaxy TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="BD IPTV"  tvg-logo="https://png.pngtree.com/png-vector/20240103/ourmid/pngtree-cartoon-style-tv-icon-tube-png-image_11085206.png",Bisso Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BD IPTV"  tvg-logo="https://png.pngtree.com/png-vector/20240103/ourmid/pngtree-cartoon-style-tv-icon-tube-png-image_11085206.png",Chanel S
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 group-title="BD IPTV"  tvg-logo="https://png.pngtree.com/png-vector/20240103/ourmid/pngtree-cartoon-style-tv-icon-tube-png-image_11085206.png",Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
 
 
