@@ -14,7 +14,7 @@ http://10.101.101.101:8080/live/channel3/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Gazi TV
 http://10.101.101.101:8080/live/channel2/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", 4K
-https://tahmidx.dotredfalcon.workers.dev/
+https://tahmidx.dotredfalcon.workers.dev/.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",PTV
 http://10.101.101.101:8080/live/channel4/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",United8 1HD
