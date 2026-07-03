@@ -21,6 +21,10 @@ https://cricxtv.fun/isceen.php?file=https://tc-sg.rockstreamer.com/v1/019ed91616
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Bioscope+
 https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_1.m3u8
 
+
+
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Korra City
+https://bv.arcras.website/edging1_720/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",4K
 https://lstv-web.pages.dev/api/proxy?url=https%3A%2F%2Flivecdn-tc-iptv.rumsport10.live%2Flive_abr%2F451%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1783135892-Kv4cPTAAP5YTi-e873fd192b0c5829a26fe8ccc3eb070200f622ba-eb157e5f4b04e4c26818e6b6e5bbebf7&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9pZnJhbWUucnVtc3BvcnQxMC5saXZlLyIsIlVzZXItQWdlbnQiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IEspIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgTW9iaWxlIFNhZmFyaS81MzcuMzYifQ%3D%3D
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Somoy TV
