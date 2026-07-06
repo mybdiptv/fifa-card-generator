@@ -4,14 +4,16 @@ app = Flask(__name__)
 
 @app.route('/stream')
 def get_stream():
+    # সরাসরি ব্রাউজার থেকে টোকেন এবং সার্ভার নম্বর নিচ্ছি
     token = request.args.get('token')
     server = request.args.get('server', '1')
     
     if not token:
-        return "Token missing!", 400
+        return "Token missing! please provide ?token=...&server=1", 400
 
-    # সরাসরি রিডাইরেক্ট (কোনো হেডার ছাড়া, কারণ এটি ব্রাউজার হ্যান্ডেল করবে)
-    # মিডিয়া সার্ভার যখন দেখবে রিকোয়েস্টটি ব্রাউজার থেকে আসছে, সে আর 403 দেবে না।
+    # মিডিয়া সার্ভারের সরাসরি লিংক
+    # এখানে আমরা কোনো হেডার বা পাইথন প্রক্সি ব্যবহার করছি না, সরাসরি রিডাইরেক্ট করছি
     target_url = f"https://lb8.strmd.st/secure/QAUWckhqUnlkNqygcdGCcGOPskuUcSju/rtmp/stream/{token}/{server}/playlist.m3u8"
     
+    # এটি ব্রাউজারকে সরাসরি ওই লিংকে পাঠিয়ে দেবে
     return redirect(target_url, code=302)
