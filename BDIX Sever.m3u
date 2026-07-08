@@ -14,6 +14,10 @@ https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.co
 
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Toffee  (All)
 https://hsb71.pages.dev/live.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", tsn 1
+https://snowcone.dabomarket.com/tsn.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", fox1
+https://admin.paradilux.store/foxalt.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", FOX 1 (RAW)
 http://143.244.62.109/hrt2/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", BEIN 5 4K (RAW)
@@ -24,7 +28,8 @@ https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/TSN4/index.m3u8
 https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/ITV1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Central Sports S (RAW)
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", ditu
+https://dmbgaz4xf6jyh.cloudfront.net/live-stream-mp/d239gifi3lv9ze/46a2fb025c37441ba7830e710487d99e/69690cfcce0dc031830e7c1a/manifest_audio_2_0_82943.mp4?pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&aid=688aae6d61c87d6274c05065&xr=us-east-2&es=dmbgaz4xf6jyh.cloudfront.net&Expires=&Key-Pair-Id=&Policy=&Signature=&proto=https&m=1783013844
 
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", FOX 1 (RAW)
 http://143.244.62.109/rts1/index.m3u8
