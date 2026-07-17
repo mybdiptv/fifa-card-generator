@@ -23,35 +23,34 @@ http://103.102.27.173:84/tvfeed1003/tracks-v1a1/mono.m3u8
 http://103.102.27.173:84/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.114.11.37:8090/assets/images/btv.png" group-title="FIFA World Cup",BTV 🔥
-http://103.114.11.37:8081/BTV/index.m3u8?token=1dsfds1fsdf
+http://103.114.11.37:8081/BTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.114.11.37:8090/assets/images/somoy2.png" group-title="FIFA World Cup",Somoy TV 🔥
-http://103.114.11.37:8081/SOMOY-TV/index.m3u8?token=1dsfds1fsdf
+http://103.114.11.37:8081/SOMOY-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.114.11.37:8090/assets/images/somoy.png" group-title="FIFA World Cup",Somoy TV-BDIX 🔥
-http://103.114.11.37:8081/SOMOY-TV-BDIX/index.m3u8?token=1dsfds1fsdf
+http://103.114.11.37:8081/SOMOY-TV-BDIX/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.114.11.37:8090/assets/images/united1.png" group-title="FIFA World Cup",Unite8 Sports 1 1080p 🔥
-http://103.114.11.37:8081/Unite8-sports-2/index.m3u8?token=1dsfds1fsdf
+http://103.114.11.37:8081/Unite8-sports-2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://103.114.11.37:8090/assets/images/tsports2.png" group-title="FIFA World Cup",T Sports HD 🔥
-http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=1dsfds1fsdf
+http://103.114.11.37:8081/T-Sports-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.114.11.37:8090/assets/images/tsports.png" group-title="FIFA World Cup",T Sports BDIX 🔥
-http://103.114.11.37:8081/T-Sports-BDIX/index.m3u8?token=1dsfds1fsdf
+http://103.114.11.37:8081/T-Sports-BDIX/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.114.11.37:8090/assets/images/asports.png" group-title="FIFA World Cup",A-Sports BDIX 🔥
 http://103.114.11.37:8081/A-sports-BDIX/index.m3u8?token=1dsfds1fsdf
 
 #EXTINF:-1 tvg-logo="http://103.114.11.37:8090/assets/images/BEIN-SPORTS-1.png" group-title="FIFA World Cup",BEIN SPORTS 1 🔥
-http://103.114.11.37:8081/BEIN-SPORTS/index.m3u8?token=1dsfds1fsdf
+http://103.114.11.37:8081/BEIN-SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.114.11.37:8090/assets/images/ptv1080p.png" group-title="FIFA World Cup",PTV 🔥
-http://103.114.11.37:8081/PTV/index.m3u8?token=1dsfds1fsdf
-
+http://103.114.11.37:8081/PTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.114.11.37:8090/assets/images/PTV.png" group-title="FIFA World Cup",PTV-BDIX 🔥
-http://103.114.11.37:8081/PTV-BDIX/index.m3u8?token=1dsfds1fsdf
+http://103.114.11.37:8081/PTV-BDIX/index.m3u8
 
 
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports
