@@ -51,14 +51,7 @@ https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-1586
 http://192.168.91.8/streams/118/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", United8 1HD (BDIX)
 http://192.168.91.8/streams/119/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",....
-https://prox.kaizokutv.tech/proxy.php?url=https%3A%2F%2Fotte.cache.aiv-cdn.net%2Fbom-nitro%2Flive%2Fclients%2Fdash%2Fenc%2Fcjglydxghe%2Fout%2Fv1%2F8977baf175da4b94873194613dd3fe55%2Fcenc_audio_7_0_30252118.mp4%3Fm%3D1781340670
 
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",....
-https://biostartvworld.pages.dev/api/t-sports.m3u8?key=aHR0cHM6Ly90di5iZXlvbmR0YXhjb25zdWx0YW50cy5jb20vYXBpL3Byb3h5P3VybD1odHRwOi8vMTAzLjE2NS45My4zMTo4MDk1L3RzcG9ydHMvdHJhY2tzLXYxYTFhMi9tb25vLm0zdTg
-
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",....
-https://prox.kaizokutv.tech/proxy.php?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports
 http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports hd
